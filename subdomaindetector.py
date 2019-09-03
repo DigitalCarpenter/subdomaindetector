@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# This scipt was written from johannes gebühr. Its licenced with GNU GPLv3. 
 
 import requests, json
 import sys 
